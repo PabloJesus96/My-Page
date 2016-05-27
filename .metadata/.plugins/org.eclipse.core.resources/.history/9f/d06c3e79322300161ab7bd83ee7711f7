@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Activities</title>
+</head>
+<body background="blue">
+	<h1>My Goals</h1>
+	My personal and professional goals are to:<br>
+	<ul>
+		<li>Meet my studies.</li>
+		<li>Achieve what I want.</li>
+		<li>Learn new things on career the informatic systems</li>
+		<li>Being good student.</li>
+		<li>Have the necessary Knowledge.</li>
+	</ul>
+		
+	<h2>My characteristics and Skills</h2>
+	<ul>
+		<li>Like doing things</li>
+		<li>Help others when I can.</li>
+		<li>Learn new experiences.</li>
+		<li>Be somewhat patient</li>
+		<li>Be something cheerful.</li>
+	</ul>		
+	
+	<h2>My Hobbies<br/></h2>
+	<ul>
+		<li>I like listening to music of violin  dubstep.</li>
+		<li>I like play soccer.</li>
+		<li>I like Walking.</li>
+		<li>I like to watch TV.</li>
+		<li>I want to finish my studies well.</li>
+		<li>Meet new people and go out and enjoy with friends. </li>
+	</ul>
+	
+	<h2>If I was Wealthy</h2>
+	<p>If I were rich I would buy a camaro and other things but what <br>
+	I would like to continue studying and preparing better and so we <br>
+	can start a business where I can pass on my knowledge to people.</p>
+	
+	<h2>How to Contact Me</h2>
+	<table border="1" style="width:100%;">
+	<tbody>
+	<tr>
+	 <th><br></th>
+		<th>Phone</th>
+		<th>In Persona</th>
+		</tr>
+	<tr>
+		<td>Daytime</td>
+		<td>418-104-5147</td>
+		<td>At School</td>
+	</tr>
+	<tr>
+		<td>Evening</td>
+		<td>418-182-8033</td>
+		<td>At Home</td>
+	</tr>
+	<tr>
+		<td>Other places</td>
+		<td>418-116-4247</td>
+		<td>Second Home</td>
+	</tr>
+		</tbody>
+		</table>
+		<h2>Places I've visited<br /></h2>
+		<table border="1" style="width:100%;">
+		<tbody>
+		<tr><th>State</th>
+			<th>Cities</th>
+			<th>Place</th>
+			<th>Motive</th>
+			
+		 </tr>
+		<tr> <td rowspan="2">Guanajuato</td>
+		<td rowspan="2">San Miguel de Allende</td>
+		<td >visit to my family</td>
+		<td>Desire to see them.</td>
+		</tr>
+		
+		<tr> <td colspan="2">Guanajuato</td> 
+		<td >Jardin Unión</td>
+		<td>ver como esta</td>
+		</tr>
+		
+		<tr> <td colspan="2">San Juan de los Lagos</td>
+		<td>FONART</td>
+		<td>I went shopping</td>
+		
+		</tr>
+		</tbody>
+				</table><br/>
+	<h3>Places in the world I'd visit</h3>
+	<p>What I would like to make trips to different places like Canada, France, Brazil <br>
+	and know beautiful landscapes.
+		<br/><br/><br/>	
+	<strong>My personal Blog <a href="http://pablodaw.blogspot.mx/"><br/>My Blog</a></strong>
+</body>
+</html>

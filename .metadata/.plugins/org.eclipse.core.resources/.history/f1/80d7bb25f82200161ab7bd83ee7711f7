@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home page</title>
+</head>
+<body>
+	<h1>My Biography</h1>
+	<h2>My name is Pablo Jes&uacute;s Barrientos S&aacute;nchez</h2>
+	<p>I was born in Dolores Hidalgo,Gto; the day Dicember 24, 1996. <br>
+	I am son of Ma. Rosario S&aacute;nchez Rodr&iacute;guez and Pablo Salvador Barrientos Garc&iacute;a, <br>
+	brother of Fabi&aacute;n Alejandro, Ma. juanita Nayeli and Jose Salvador.</p>
+
+	<h3 >My Picture</h3>
+	<a href="../img/yo.jpg" target="_blank">
+	<img alt="Image no found"  align="left" src="../img/yo.jpg" width="200px"></a>
+	
+	<p>I began my studies in kindergarten Moises Saenz Garza, to the six years I entered the primary Joaquin Baranda had several friends with whom I enjoyed a lot. In the course of my life I don't had no problems at school and at the end of the sixth year decided to continue studying at the Technical School No. 16.</p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+body{background-color: #B0C2F2;}
+h1{text-align: center; color: red;}
+h2{color: blue;}
+h3{color: gray;}
+h4{color: green;}
+img {width:200px; height: 200px;}
+table{border: 1px; width: 100%; border: 1px solid black;}
+th,tr{background-color: gray; border: 1px solid black;}
+td{background-color: white; border: 1px solid black;}

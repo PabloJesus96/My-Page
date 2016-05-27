@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home page</title>
+</head>
+<body>
+
+	<h3 >My Picture</h3>
+	<a href="../img/yo.jpg" target="_blank">
+	<img alt="Image no found"  align="left" src="../img/yo.jpg" width="200px"></a>
+	
+	<h1>My Biography</h1>
+	<h2>My name is Pablo Jes&uacute;s Barrientos S&aacute;nchez</h2>
+	<p>I was born in Dolores Hidalgo,Gto; the day Dicember 24, 1996. <br>
+	I am son of Ma. Rosario S&aacute;nchez Rodr&iacute;guez and Pablo Salvador Barrientos Garc&iacute;a, <br>
+	brother of Fabi&aacute;n Alejandro, Ma. juanita Nayeli and Jose Salvador.</p>
+	
+	<br><p>I began my studies in kindergarten Moises Saenz Garza, <br>
+	to the six years I entered the primary Joaquin Baranda had several friends with whom I enjoyed a lot. <br>
+	In the course of my life I don't had no problems at school and at the end of the sixth year decided to <br>
+	continue studying at the Technical School No. 16.</p>
+	
+	<p>At age 12 he was studying high school, here I met many people and teachers after three years I followed <br>
+	 to study and prepare to continue my studies. So I decided to enter the school CBTIS 75 the specialty to <br>
+	 support and maintenance of computer equipment which was how much I liked to do.</p><br>
+	 
+	 <p>In this continuous time with my studies at the Technological University of North Guanajuato in the area <br>
+	 of information technologies with the career of computer systems, I make the effort to have a great knowledge <br>
+	 acquisition based on what this study and thus continue striving every day to have a good learning, understand <br>
+	 what I explain so that we can implement it in life.</p>
+</body>
+</html>

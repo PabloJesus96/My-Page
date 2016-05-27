@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+body{background-image:url(../img/1.jpg);}
+h1{text-align: center; color: red;}
+h2{color: blue;}
+h3{color: gray;}
+img {width:200px; height: 200px;}
